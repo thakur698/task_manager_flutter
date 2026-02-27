@@ -17,6 +17,16 @@ A simple Flutter Task Manager application built using Provider state management 
 
 ## API Used
 https://jsonplaceholder.typicode.com/todos
+## App Screenshots
+
+### Login Screen
+![Login](IMG_7654.png)
+
+### Home Screen
+![Home](IMG_7655.png)
+
+### Filtered View
+![Filtered](IMG_7656.png)
 
 ## Author
 Abhi Thakur
